@@ -48,7 +48,7 @@
     "react-router-dom": "^4.2.2",
     "react-split-pane": "^0.1.77",
     "typography": "^0.16.6",
-    "typography-theme-github": "^0.15.10",
+    "typography-theme-github": "^0.16.18",
     "wireframe-framework": "latest"
   },
   "devDependencies": {
